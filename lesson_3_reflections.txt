@@ -7,3 +7,6 @@ Because they may not be ready to share with others due to testing activities in 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 The difference between clone and fork is that clone is a copy without any reference where was it copied while fork creates a reference from where it was copied, also clone is only possible in local to local or remote to local or local to remote while fork is in remote to remote. Branch works within the same repository and it could be made in a local.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So it is easier to figure it out what was online before you started to work locally, and before anybody do something within the repository.
