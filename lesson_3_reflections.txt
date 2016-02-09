@@ -10,3 +10,9 @@ The difference between clone and fork is that clone is a copy without any refere
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So it is easier to figure it out what was online before you started to work locally, and before anybody do something within the repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use dropbox or something similar. It would be easier to make changes but would be harder to keep track of these changes. Also working simultaneously would be harder and a significant efforts would be required to plan the workflow.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A nice workflow where your changes can be reviewed by others and approved as well.
